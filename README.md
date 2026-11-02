@@ -1,8 +1,14 @@
-# LLM-assisted writing: methods documentation
+# LLM assisted writing deserves empirical evaluation
 
-Companion methods for **LLM assisted writing deserves empirical evaluation**, by Xuan Zhong Feng, Yi Lin, Yiye Zhang, Chunhua Weng, and Yifan Peng.
+Xuan Zhong Feng<sup>1</sup>, Yi Lin<sup>1</sup>, Yiye Zhang<sup>1</sup>, Chunhua Weng<sup>2</sup>, Yifan Peng<sup>1,*</sup>
+
+<sup>1</sup> Department of Population Health Sciences, Weill Cornell Medicine, New York, NY, USA<br>
+<sup>2</sup> Department of Biomedical Informatics, Columbia University, New York, NY, USA<br>
+<sup>*</sup> Corresponding author: yip4002@med.cornell.edu
 
 ## Read the methods
+
+This document preserves all information from the manuscript Methods section. Its wording and numerical values are unchanged; headings, lists, and citations are adapted for GitHub. Read the [PDF](methods.pdf) or the [original Methods TeX](methods-body.tex). Supplementary Prompts 1–6 and Supplementary Tables S1–S3 refer to the accompanying [Supplementary Information](supplementary-information.pdf).
 
 - [Methods in Markdown](METHODS.md): complete methods, with navigable headings, equations, country lists, and references.
 - [Methods PDF](methods.pdf): typeset reading copy.
